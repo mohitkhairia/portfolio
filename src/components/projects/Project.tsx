@@ -176,7 +176,7 @@ const Project = () => {
                         </div>
                     </div>
                 </li>
-                <li className="projectResp__items projectResp__items3">
+                {/* <li className="projectResp__items projectResp__items3">
                     <div className="projectResp__card">
                         <div className="projectResp__cardTop">
                             <svg className="projectResp__cardFolder">
@@ -204,7 +204,7 @@ const Project = () => {
                             <div className='projectResp__tags'> React &nbsp; MongoDb &nbsp; Express &nbsp; AWS</div>
                         </div>
                     </div>
-                </li>
+                </li> */}
             </ul>
 
 
